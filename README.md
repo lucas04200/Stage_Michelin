@@ -1,8 +1,7 @@
 ## Table des matières
 1. [Informations](#informations)
-2. [Objectifs du Stage](#Objectifs)
-3. [Technologies](#technologies)
-4. [Crédit](#crédit)
+2. [Technologies](#technologies)
+3. [Crédit](#crédit)
 
 # Stage chez Michelin
 ***
