@@ -1,13 +1,12 @@
 ## Table des matières
-1. [Informations générales](#informations_générales)
+1. [Informations](#informations)
 2. [Objectifs du Stage](#Objectifs)
 3. [Technologies](#technologies)
 4. [Crédit](#crédit)
 
-## Informations_Générales
+# Stage chez Michelin
 ***
-Stage chez Michelin
-## Objectifs
+## Informations
 ***
 - Création d'une application Console permettant de modifier automatiquement des scripts/répertoires.
 - Analyse et mise en forme de data avec Pandas (Python)
