@@ -10,7 +10,7 @@
 - Création d'une application Console permettant de modifier automatiquement des scripts/répertoires.
 - Analyse et mise en forme de data avec Pandas (Python)
 - Script system pour Robocopy d'un fichier Access.
-- Gestion de flux avec des scripts batch.
+- Gestion de flux avec des scripts bash.
 ## Technologies
 ***
 Voici une liste des technologies utilisées :
