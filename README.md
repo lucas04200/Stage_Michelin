@@ -15,7 +15,6 @@
 ***
 Voici une liste des technologies utilisées :
 * [Visual Studio Code](https://code.visualstudio.com/) : 1.70.2
-* [VMWare](https://www.vmware.com/fr.html)
 ***
 * [Bash]
 * [Python]
